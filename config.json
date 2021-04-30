@@ -1,0 +1,17 @@
+{
+  "prefixes": ["!","."],
+  "botToken": "",
+  "developers": ["", "795638745873121321"],
+  "mongooseConnectURL": "",
+  "botStatus": "Suwen ❤️ ",
+  "name_age": true,
+  "embedColor": "RANDOM",
+  "defaultTag": "Ψ",
+  "tag": "Ψ",
+  "staffRoles": [],
+  "invalids": [],
+  "unregisterRoles": ["836667127770644539"],
+  "boyRoles": ["836667127888609348"],
+  "girlRoles": ["836667127909449739"],
+  "tagRoles": ["836667128023220246"]
+}
